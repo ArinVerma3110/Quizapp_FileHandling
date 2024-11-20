@@ -1,7 +1,7 @@
 # Name : Arin Verma
 # Enrollment No. : 0176AL221031
 
-# Assignment 2       Submission Date : 18/11/24
+# Assignment 2       
 
 
 # Q2. Program of quiz app using file handling
