@@ -1,0 +1,60 @@
+Math|What is 2+2?|4|3|5|6
+Math|What is 10/2?|5|4|6|7
+Math|What is 5*6?|30|25|35|40
+Math|What is 9-3?|6|5|7|8
+Math|What is 3^2?|9|6|8|10
+Math|What is the square root of 16?|4|5|6|3
+Math|What is 7*7?|49|48|50|46
+Math|What is 15+5?|20|18|22|25
+Math|What is 100-45?|55|50|60|65
+Math|What is 9*8?|72|71|73|70
+Math|What is 25/5?|5|4|6|7
+Math|What is 100/10?|10|9|11|12
+Math|What is 5+15?|20|18|22|24
+Math|What is 3*9?|27|26|28|29
+Math|What is 1000-500?|500|400|600|450
+Math|What is 50/5?|10|9|8|7
+Math|What is 10*10?|100|90|110|95
+Math|What is 12*12?|144|140|150|130
+Math|What is 5^3?|125|120|130|100
+Math|What is 10^2?|100|90|110|105
+Science|What planet is known as the Red Planet?|Mars|Earth|Venus|Jupiter
+Science|What is the chemical symbol for water?|H2O|H|O2|HO
+Science|What gas do plants absorb from the atmosphere?|Carbon Dioxide|Oxygen|Hydrogen|Nitrogen
+Science|What is the powerhouse of the cell?|Mitochondria|Nucleus|Cytoplasm|Ribosome
+Science|What planet is closest to the sun?|Mercury|Venus|Earth|Mars
+Science|What force keeps us on the ground?|Gravity|Magnetism|Friction|Inertia
+Science|What is the hardest natural substance?|Diamond|Gold|Iron|Quartz
+Science|How many bones are in the human body?|206|205|208|210
+Science|What is the symbol for gold?|Au|Ag|Pb|Fe
+Science|What is the speed of light?|300000000|150000000|450000000|100000000
+Science|What is the human body’s largest organ?|Skin|Heart|Liver|Lungs
+Science|What gas do humans exhale?|Carbon Dioxide|Oxygen|Nitrogen|Helium
+Science|What is the center of an atom called?|Nucleus|Electron|Proton|Neutron
+Science|What do bees make?|Honey|Wax|Pollen|Royal Jelly
+Science|What is the largest planet in the solar system?|Jupiter|Saturn|Earth|Mars
+Science|What is the chemical symbol for oxygen?|O|O2|Ox|H2O
+Science|What is the process plants use to make food?|Photosynthesis|Respiration|Transpiration|Diffusion
+Science|What is the study of life called?|Biology|Chemistry|Physics|Ecology
+Science|How many planets are in the solar system?|8|7|9|10
+Science|What metal is liquid at room temperature?|Mercury|Gold|Silver|Copper
+History|Who was the first president of the USA?|George Washington|Abraham Lincoln|Thomas Jefferson|John Adams
+History|What year did World War I begin?|1914|1918|1939|1945
+History|Who was the first man on the moon?|Neil Armstrong|Buzz Aldrin|Michael Collins|Yuri Gagarin
+History|What year did the Titanic sink?|1912|1905|1910|1915
+History|What ancient civilization built the pyramids?|Egyptians|Romans|Greeks|Aztecs
+History|Who was known as the Iron Lady?|Margaret Thatcher|Queen Elizabeth|Angela Merkel|Indira Gandhi
+History|What year did World War II end?|1945|1940|1950|1939
+History|Who was the first emperor of Rome?|Augustus|Julius Caesar|Nero|Caligula
+History|What year did the Berlin Wall fall?|1989|1990|1985|1995
+History|Who discovered America?|Christopher Columbus|Ferdinand Magellan|Amerigo Vespucci|Vasco da Gama
+History|What was the name of the ship on which the Pilgrims traveled to America?|Mayflower|Santa Maria|Pinta|Niña
+History|In which year was the Magna Carta signed?|1215|1200|1300|1250
+History|Who was the last queen of France?|Marie Antoinette|Catherine the Great|Elizabeth I|Anne Boleyn
+History|Who was the first female Prime Minister of India?|Indira Gandhi|Margaret Thatcher|Benazir Bhutto|Golda Meir
+History|In which year was the US Declaration of Independence signed?|1776|1789|1775|1800
+History|Who was the leader of the Soviet Union during World War II?|Joseph Stalin|Vladimir Lenin|Mikhail Gorbachev|Leon Trotsky
+History|In which city was Archduke Franz Ferdinand assassinated?|Sarajevo|Vienna|Berlin|Prague
+History|Who was the first woman to fly solo across the Atlantic?|Amelia Earhart|Harriet Quimby|Bessie Coleman|Valentina Tereshkova
+History|What famous battle took place in 1066?|Battle of Hastings|Battle of Agincourt|Battle of Waterloo|Battle of Thermopylae
+History|Which empire was ruled by Julius Caesar?|Roman Empire|Greek Empire|Persian Empire|Byzantine Empire
